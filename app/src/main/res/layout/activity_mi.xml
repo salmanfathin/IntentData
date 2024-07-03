@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/topbanner"/>
+
+        <ImageView
+            android:layout_width="150pt"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/mifkom"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="VISI"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="Mewujudkan program studi yang unggul dalam bidang teknologi informasi dan komunikasi dan bermutu berbasis entrepeunership yang diseleraskan dengan perkembangan teknologi informasi dan komunikasi serta memiliki komitmen yang tinggi terhadap pemberdayaan masyarakat pada tahun 2032"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="PROFIL LULUSAN dan PILIHAN KARIR"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="Staff IT, Customer Service Representative, IT Consultant, IT Operator, Staff Finance, Financial Manager, Storage Manager, Administrator, dsb."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="KEGIATAN MBKM"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="Magang Bersertifikat"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="PROGRAM KHUSU"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="Membuka Kelas Malam"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="KEAHLIAN SPESIALIS"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="@string/keahlian_mi"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="SERTIFIKASI"/>
+
+        <ImageView
+            android:layout_width="100pt"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/mi3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/mi1"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/bottom"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/topbanner"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="#235284"
+        android:text="Visi"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:textSize="10sp"
+        android:textStyle="italic"
+        android:padding="5dp"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:text="Terwujudnya Fakultas  Ilmu Komputer  Universitas Kuningan sebagai  fakultas andal  yang  unggul  dalam  penyelenggaraaan  Tri  Darma  Perguruan  Tinggi  di Wilayah Jawa Barat pada tahun 2032"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:layout_marginTop="9dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="#235284"
+        android:text="Fakultas Ilmu Komputer"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="10dp"
+        android:layout_marginBottom="16dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="#235284"
+        android:text="Mempunyai 5 Program Studi"/>
+
+    <ImageView
+        android:layout_width="100pt"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/tifkom"/>
+
+    <Button
+        android:id="@+id/ButtonTI"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:backgroundTint="#235284"
+        android:text="Detail Teknik Informatika"
+        android:padding="0dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textColor="@color/white"
+        android:textSize="10dp" />
+
+    <ImageView
+        android:layout_width="100pt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="15dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/sifkom"/>
+
+    <Button
+        android:id="@+id/ButtonSI"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:backgroundTint="#235284"
+        android:text="Detail Sistem Informasi"
+        android:padding="0dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textColor="@color/white"
+        android:textSize="10dp" />
+
+    <ImageView
+        android:layout_width="100pt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="15dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/mifkom"/>
+
+    <Button
+        android:id="@+id/ButtonMI"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:backgroundTint="#235284"
+        android:text="Detail Manajemen Informasi"
+        android:padding="0dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textColor="@color/white"
+        android:textSize="10dp" />
+
+    <ImageView
+        android:layout_width="100pt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="15dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/dkvfkom"/>
+
+    <Button
+        android:id="@+id/ButtonDKV"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:backgroundTint="#235284"
+        android:text="Detail Desain Komunikasi Visual"
+        android:padding="0dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textColor="@color/white"
+        android:textSize="10dp" />
+
+    <ImageView
+        android:layout_width="100pt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="15dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/tsfkom"/>
+
+    <Button
+        android:id="@+id/ButtonTS"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:backgroundTint="#235284"
+        android:text="Detail Teknik Sipil"
+        android:padding="0dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textColor="@color/white"
+        android:textSize="10dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/bottom"/>
+
+</LinearLayout>
+</ScrollView>

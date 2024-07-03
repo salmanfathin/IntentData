@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/topbanner"/>
+
+        <ImageView
+            android:layout_width="150pt"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/dkvfkom"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="VISI"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="Menjadi Program Studi DKV yang menghasilkan creativepreneur dengan keunggulan lulusan yang berkomitmen pada Pemberdayaan Masyarakat (kewirausahaan) yang berbasis pada budaya lokal dan mumpuni dalam Information and Communication Technology (ICT), serta memiliki sikap kreatif dan mandiri."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="PROFIL LULUSAN dan PILIHAN KARIR"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="Graphic Designer, Illustator, Coloring Artist, Comic Artist, Animator, Videographer, Artpreneur, Creative Director, Art Director, Video Editor, Post-Production Specialist, Photographer, Content Creator, Design Consultant, Entrepreneur, Social Media Specialist."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="KEGIATAN MBKM"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="Magang dan Studi Independen Bersertifikat, Kegiatan Berwirausaha Mahasiswa Indonesia"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="PRESTASI MAHASISWA"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000000"
+            android:text="@string/prestasi_dkv"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="#235284"
+            android:text="SERTIFIKASI"/>
+
+        <ImageView
+            android:layout_width="100pt"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/dkv3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/dkv1"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/bottom"/>
+
+    </LinearLayout>
+</ScrollView>

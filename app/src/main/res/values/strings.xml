@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BP3_Intent_Salman</string>
+    <string name="prestasi_ti"> * Juara 3 lomba Game tingkat Nasional di Gameloft 2019\n
+        * Juara 3 lomba Game tingkat Nasional di Gameloft 2020\n
+        * Juara 1 lomba Game tingkat Nasional di Gameloft 2020\n
+        * Pilmapres tingkat Provinsi tahun 2018\n
+        * Juara 3 Pilmapres tingkat Universitas tahun 2019, 2020, 2021\n
+        * Finalis LIDM Tahun 2021\n
+        * Juara 1 dan 3 lomba E-Sport Djarum Tahun 2022\n
+        * PHP2D tahun 2020, 2021\n
+        * PPK Ormawa 2022\n
+        * PkM tahun 2020, 2021\n
+        * IWDM tahun 2022</string>
+    <string name="prestasi_si">* Juara 1 lomba Desain Cindramata 2018\n
+        * Juara Favorit lomba poster STIKKU 2017\n
+        * Mahasiswa Berprestasi UNIKU 2022\n
+        * Duta Putra Sosial Kuningan 2022\n
+        * Juara Lomba LLDIKTI Konsep Garapan Terbaik Tingkat Jabar-Banten 2022\n
+        * PPK Ormawa</string>
+    <string name="program_si">* Pertukaran Mahasiswa ke University Utara Malaysia (UUM)\n
+        * Praktisi/Dosen Kompetensi dari Universitas lain</string>
+    <string name="keahlian_mi">* Komputerisasi Akuntansi\n
+        * Komputerisasi Perpajakan\n
+        * Komputerisasi Anggaran\n
+        * Front Office\n
+        * Back Office\n
+        * Web</string>
+    <string name="prestasi_dkv">
+        * Juara 3 Festival Film Mahasiswa Indonesia (FFMI) 2020\n
+        * Juara 3 Battle of Learning Art 2020\n
+        * Juara 1 lomba poster Earth Hour Day 2021\n
+        * 10 besar Indonesian Film Festival (IFF) Australia 2021\n
+        * Finalis Lomba Poster LIDM 2021\n
+        * 2 Star Fish Award – International Ocean Art Festival, Korea Selatan 2021\n
+        * Juara 1, 2, 3 Lomba Foto Essay CIFEST 2022\n
+        * Juara 1, 2, 3 Lomba Video Kreatif CIFEST 2022\n
+        * Juara 1 Lomba Desain Logo CIFEST 2022\n
+        * Juara 1 MovieFeast International Short Movie Competition, Malaysia 2022\n
+        * Juara 3 Duta GenRe Putra Tk. Kabupaten Kuningan 2022</string>
+    <string name="lingkup_ts">Literasi Teknologi, Fisika Dasar, Gambar Teknik, Statistika, Pengantar Ilmu Teknik Sipil, Bahan Bangunan dan Pengantar Teknologi Beton, Geomatika, Mekanika Fluida, Hidrologi / Hidraulika, Gambar Konstruksi, Struktur Bangunan, Teknik Transportasi dan Lalu Lintas, Mekanika Bahan, Teknologi Bahan, Analisis Struktur, Rekayasa Lingkungan, Manajemen Kontruksi, Mekanika Tanah, Teknik Fondasi, Struktur Beton, Struktur Baja, Aplikasi Komputasi Teknik Sipil, Drainase, Irigasi dan Bangunan Air, Rekayasa Air Tanah, Metigasi Bencana Alam, Perancangan Bangun Teknik Sipil, Perancangan Bangunan Air, Keselamatan Transportasi dan Lingkungan, Pengembangan Sumber Daya Air, Teknik Kegempaan, Sistem Manajemen Kesehatan, Keselamatan Kerja dan Lingkungan.</string>
+
+</resources>
